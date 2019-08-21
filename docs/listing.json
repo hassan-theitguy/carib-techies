@@ -1,0 +1,109 @@
+﻿{
+    "data": [
+        {
+            "Name": "BARBADOS ICT",
+            "Acronym": "BIPA",
+            "URL": "https://barbadosict.org/",
+            "Category": "Group",
+            "Country": "Barbados"
+        },
+        {
+            "Name": "Caribbean Association of National Telecommunications Organizations",
+            "Acronym": "CANTO",
+            "URL": "https://www.canto.org/",
+            "Category": "Organisation",
+            "Country": "Caribbean"
+        },
+        {
+            "Name": "Caribbean Network Operators Group",
+            "Acronym": "CaribNOG",
+            "URL": "https://www.caribnog.org",
+            "Category": "Group",
+            "Country": "Caribbean"
+        },
+        {
+            "Name": "Frost Front Games",
+            "Acronym": "",
+            "URL": "https://frostfrontpodcast.com/offlinetalk/",
+            "Category": "Podcast",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "Hacker Hostel",
+            "Acronym": "",
+            "URL": "https://hackerhostel.com.jm/",
+            "Category": "Event",
+            "Country": "LAC"
+        },
+        {
+            "Name": "ICT Pulse",
+            "Acronym": "",
+            "URL": "https://www.ict-pulse.com/",
+            "Category": "Blog",
+            "Country": "Jamaica"
+        },
+        {
+            "Name": "Silicon Caribe",
+            "Acronym": "",
+            "URL": "https://www.siliconcaribe.com/",
+            "Category": "Blog",
+            "Country": "Jamaica"
+        },
+        {
+            "Name": "Tech Beach Retreat",
+            "Acronym": "",
+            "URL": "https://techbeach.net/",
+            "Category": "Event",
+            "Country": "Caribbean"
+        },
+        {
+            "Name": "Tech News TT",
+            "Acronym": "",
+            "URL": "https://technewstt.com/",
+            "Category": "Media",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "Technicational",
+            "Acronym": "",
+            "URL": "https://www.youtube.com/channel/UCQQ4nqlgO9dVSm9DsHgpyaw",
+            "Category": "YouTube",
+            "Country": "Jamaica"
+        },
+        {
+            "Name": "The National Information and Communication Technology Company Limited",
+            "Acronym": "iGovTT",
+            "URL": "https://www.igovtt.tt/",
+            "Category": "Resource",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "The Tech Remix",
+            "Acronym": "",
+            "URL": "https://www.thetechremix.com",
+            "Category": "Blog",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "Trinidad and Tobago Computer Society",
+            "Acronym": "TTCS",
+            "URL": "https://www.ttcs.tt/",
+            "Category": "Group",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "Trinidad and Tobago Internet Governance Forum",
+            "Acronym": "TTIGF",
+            "URL": "http://igf.tt/",
+            "Category": "Event",
+            "Country": "Trinidad and Tobago"
+        },
+        {
+            "Name": "UWI Computer Society",
+            "Acronym": "",
+            "URL": "https://www.facebook.com/groups/Uwi.Computing.Society/",
+            "Category": "Group",
+            "Country": "Caribbean"
+        }
+    ]
+}
