@@ -8,10 +8,24 @@
             "Country": "Barbados"
         },
         {
+            "Name": "Bermuda Tech Week",
+            "Acronym": "",
+            "URL": "http://www.bermudatechweek.bm/",
+            "Category": "Event",
+            "Country": "Bermuda"
+        },
+        {
             "Name": "Caribbean Association of National Telecommunications Organizations",
             "Acronym": "CANTO",
             "URL": "https://www.canto.org/",
             "Category": "Organisation",
+            "Country": "Caribbean"
+        },
+        {
+            "Name": "Caribbean Developers",
+            "Acronym": "",
+            "URL": "https://www.facebook.com/groups/devcarib/",
+            "Category": "Forum",
             "Country": "Caribbean"
         },
         {
@@ -43,10 +57,24 @@
             "Country": "Jamaica"
         },
         {
+            "Name": "Internet Addresses Registry for Latin America and Caribbean",
+            "Acronym": "LACNIC",
+            "URL": "https://www.lacnic.net/",
+            "Category": "Organisation",
+            "Country": "LAC"
+        },
+        {
             "Name": "Silicon Caribe",
             "Acronym": "",
             "URL": "https://www.siliconcaribe.com/",
             "Category": "Blog",
+            "Country": "Jamaica"
+        },
+        {
+            "Name": "SlashRoots Foundation",
+            "Acronym": "",
+            "URL": "https://www.slashroots.org/",
+            "Category": "Organisation",
             "Country": "Jamaica"
         },
         {
@@ -74,7 +102,7 @@
             "Name": "The National Information and Communication Technology Company Limited",
             "Acronym": "iGovTT",
             "URL": "https://www.igovtt.tt/",
-            "Category": "Resource",
+            "Category": "Organisation",
             "Country": "Trinidad and Tobago"
         },
         {
