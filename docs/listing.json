@@ -15,6 +15,13 @@
                      "Country":  "Bermuda"
                  },
                  {
+                     "Name":  "BETA Camp",
+                     "Acronym":  "",
+                     "URL":  "https://wearebeta.co/",
+                     "Category":  "Event",
+                     "Country":  "Bahamas"
+                 },
+                 {
                      "Name":  "Caribbean Association of National Telecommunications Organizations",
                      "Acronym":  "CANTO",
                      "URL":  "https://www.canto.org/",
@@ -36,11 +43,25 @@
                      "Country":  "Caribbean"
                  },
                  {
+                     "Name":  "Caribbean Telecommunications Union",
+                     "Acronym":  "CTU",
+                     "URL":  "https://www.ctu.int/",
+                     "Category":  "Organisation",
+                     "Country":  "Caribbean"
+                 },
+                 {
                      "Name":  "Commonwealth Telecommunications Organisation",
                      "Acronym":  "CTO",
                      "URL":  "https://cto.int/",
                      "Category":  "Organisation",
                      "Country":  "International"
+                 },
+                 {
+                     "Name":  "Create Caribbean",
+                     "Acronym":  "",
+                     "URL":  "http://createcaribbean.org",
+                     "Category":  "Organisation",
+                     "Country":  "Caribbean"
                  },
                  {
                      "Name":  "Dev Caribbean",
@@ -64,11 +85,25 @@
                      "Country":  "LAC"
                  },
                  {
+                     "Name":  "Haiti Tech Summit",
+                     "Acronym":  "",
+                     "URL":  "http://haititechsummit.com/",
+                     "Category":  "Event",
+                     "Country":  "Haiti"
+                 },
+                 {
                      "Name":  "ICT Pulse",
                      "Acronym":  "",
                      "URL":  "https://www.ict-pulse.com/",
                      "Category":  "Blog",
                      "Country":  "Jamaica"
+                 },
+                 {
+                     "Name":  "Intellect Storm",
+                     "Acronym":  "",
+                     "URL":  "https://www.intellectstorm.com/",
+                     "Category":  "Group",
+                     "Country":  "Guyana"
                  },
                  {
                      "Name":  "Internet Addresses Registry for Latin America and Caribbean",
@@ -90,6 +125,13 @@
                      "URL":  "https://kingstonbeta.com/",
                      "Category":  "Group",
                      "Country":  "Jamaica"
+                 },
+                 {
+                     "Name":  "Py Caribbean",
+                     "Acronym":  "",
+                     "URL":  "http://pycaribbean.com/",
+                     "Category":  "Event",
+                     "Country":  "Caribbean"
                  },
                  {
                      "Name":  "Silicon Caribe",
